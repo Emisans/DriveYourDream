@@ -1,0 +1,16 @@
+# Generated output
+/build/
+/target/
+*.class
+*.war
+*.log
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local.properties
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
